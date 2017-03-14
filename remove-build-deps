@@ -25,6 +25,6 @@
 # Just a tiny script to remove build dependencies installed by the `build-deps` command
 # Use it with caution as it can remove packages that are needed by your Linux installation...
 
-PACKAGE = $1
+PACKAGE=$1
 
 sudo apt --purge remove $(apt-cache showsrc $PACKAGE | grep Build-Depends | perl -p -e 's/(?:[\[(].+?[\])]|Build-Depends:|,|\|)//g')
