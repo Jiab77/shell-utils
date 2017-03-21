@@ -23,5 +23,5 @@
 # SOFTWARE.
 
 sudo apt update --fix-missing -y
-sudo apt list --upgradable
+sudo apt list --upgradable -a
 sudo apt dist-upgrade -y
