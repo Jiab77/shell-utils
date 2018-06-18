@@ -1,10 +1,32 @@
-# shell-utils
-A collection of small shell scripts for lazy guys :grin:
+# Bye bye Github...
 
-# usage
+Why do I'm leaving Github ?
 
-Simply edit them before the first launch to set your personnal values.
+> Because I can't live with the idea that Microsoft now owns the biggest place where the open source code is / was hosted.
 
-# installation
+And ?
 
-The install script still need to be done but you can manually copy them in the folder you want then add the folder to your system path.
+> Also because Github didn't took the time to ask us, developpers, users, if we would be ok with this operation and my reply would be **NO!**
+
+# New home
+
+But where could you find my code now ?
+
+> I just moved to Gitlab as many other devs did.
+
+# Gists
+
+My gists will stay on Github for few reasons:
+
+ * Github has a better audience on Google
+ * Did not found the same feature with the same visibility on Gitlab
+
+Place of my gists: https://gist.github.com/jiab77
+
+# Projects
+
+I might just keep the projects names on Github too for the same reason as above, but with only the present file and a link to the new project home.
+
+# Repository
+
+The new place is here: https://gitlab.com/jiab77/shell-utils
